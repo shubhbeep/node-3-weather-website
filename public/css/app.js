@@ -1,0 +1,1 @@
+console.log("kanye west has been loaded")
